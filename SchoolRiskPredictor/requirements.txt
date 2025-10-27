@@ -5,3 +5,4 @@ plotly
 joblib
 folium
 streamlit-folium
+scikit-learn
