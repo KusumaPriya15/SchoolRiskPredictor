@@ -7,3 +7,5 @@ folium
 streamlit-folium
 scikit-learn
 xgboost
+matplotlib
+seaborn
